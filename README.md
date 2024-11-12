@@ -7,7 +7,7 @@ Aspiring Software Engineer
 - 🤔 I’m looking for help with Placements in WICAT
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashwin-muralidharan-01685b320/) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ashwin.ig/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashwin-muralidharan-01685b320/)
 - 😉 Pronouns: He/Him
 - ⚡ Fun fact: I know French.
 ### I code in
