@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Ashwin
+## Hey there 👋 This is Ashwin
 
 Aspiring Software Engineer
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">                                                
